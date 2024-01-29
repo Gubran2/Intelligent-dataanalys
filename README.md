@@ -1,2 +1,2 @@
 ﻿# Intelligent-dataanalys
-# Course at BTH
+Course at BTH
